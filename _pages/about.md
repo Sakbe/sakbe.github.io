@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Associated Researcher, Princeton Plasma Physics Laboratory (PPPL)</a>. Princeton, NJ. lcoronar@pppl.gov. Out with the old, in with the nucleus
+subtitle: <a href='https://www.pppl.gov'>Associated Researcher, Princeton Plasma Physics Laboratory (PPPL)</a>. Princeton, NJ. lcoronar@pppl.gov. Out with the old, in with the nucleus
 
 profile:
   align: right
