@@ -1,116 +1,131 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Doménica Corona Einstein",
+    "label": "Researcher/Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sakbecorona@gmail.com",
+    "phone": "",
+    "url": "https://dori.science",
+    "summary": "A nuclear fusion physicist/engineer, working on real-time and ML",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "NJ 08002",
+      "city": "Philadelphia",
       "countryCode": "US",
-      "region": "California"
+      "region": "Grater Philadelphia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "DCoronaR",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "position": "Associated Researcher",
+      "name": "Princeton Plasma Physics Laboratory, Computational Science Department, USA",
+      "url": "https://www.pppl.gov/",
+      "startDate": "2022",
+      "endDate": "",
+      "summary": "Development of machine learning models to accelerate system performance alongside support for Plasma Control and Protection Systems restoration and operation.",
+      "highlights": ["ML, Publications"]
+    },
+    {
+      "name": "GDS, ENEL Green Power, Mexico City",
+      "position": "PI system Specialist",
+      "url": "https://www.enel.mx/en",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Server administration and oversight for the OSIsoft PI system used in solar and wind power plants.",
+      "highlights": ["Green Energy, PI system, Automation, OSIsoft"]
+    },
+    {
+      "name": "Engineering Faculty, UNAM, Mexico City",
+      "position": "Automation Lab Teacher",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Conducted training on industrial micro-systems with emphasis on Siemens LOGO! controllers.",
+      "highlights": ["University teacher, PLC, automation, Siemens"]
+    },
+    {
+      "name": " SYKES Brazil, Mexico City.",
+      "position": "Portuguese Phone Agent",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "Provided technical support for OneTouch glucometers.",
+      "highlights": ["Portuguese language, Costumer Service"]
+    },
+    {
+      "name": "Siemens Mexico, Mexico City.",
+      "position": "Field Services Engineer",
+      "url": "https://www.siemens.com/mx/es.html",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Implemented automation systems and SCADA solutions in industrial settings.",
+      "highlights": ["Automation, SCADA, Costumer Service, Siemens"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "South Jersey Lion Dance Troupe",
+      "location": "New Jersey, USA",
+      "position": "Dancer",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Lion Dance via assemblies, class presentations, performances and more",
+      "highlights": ["Chinese culture, Chinese tradicional dance"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Instituto de Plasmas e Fusão Nuclear",
+      "location": "Lisbon, Portugal",
+      "url": "",
+      "area": "Physics and Technology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016",
+      "endDate": "2021",
+      "score": "Passed with distinction (FCT scholarship)",
+      "courses": ["Thesis: Tokamak Magnetic Control Simulation: Applications for JT60-SA and ISTTOK Operation"]
+    },
+    {
+      "institution": "University of Naples Federico II",
+      "location": "Naples, Italy",
+      "url": "",
+      "area": "Automation Engineering",
+      "studyType": "Visiting PhD",
+      "startDate": "2017",
+      "endDate": "2019",
+      "score": "",
+      "courses": ["Collaboration with the CREATE team developing simulation and control tools for JT60-SA."]
+    },
+    {
+      "institution": "Universidad Nacional Autónoma de México, UNAM, Engineering Faculty",
+      "location": "Mexico City, Mexico",
+      "url": "",
+      "area": "Electric-Electronic Engineering",
+      "studyType": "Electric-Electronic Engineering",
+      "startDate": "2009",
+      "endDate": "2013",
+      "score": "",
+      "courses": ["Thesis: Circular Cross-section Tokamak Control Position at the Nuclear Science Institute."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Gabino Barreda Medal",
+      "date": "2015",
+      "awarder": "Universidad Nacional Autónoma de México, UNAM",
+      "url": "",
+      "summary": "Awarded annually to the students with the highest grade‐point average upon completion of their studies'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -136,55 +151,88 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "GitHub",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "icon": "fa-brands fa-git",
+      "keywords": ["Version Control"]
+    },
+    {
+      "name": "MATLAB & Simulink",
+      "level": "Master",
+      "icon": "fa-solid fa-calculator",
+      "keywords": ["Control Scheme programmation"]
+    },
+    {
+      "name": "Linux Administration",
+      "level": "Master",
+      "icon": "fa-brands fa-linux",
+      "keywords": [""]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hexagon-nodes",
+      "keywords": ["FNN, GNN, MLP"]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "icon": "fa-brands fa-python",
+      "keywords": ["PyTorch, sklear, pandas"]
+    },
+    {
+      "name": "MARTe Real-time framework",
+      "level": "Master",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [""]
+    },
+
+    {
+      "name": "SIMATIC WinCC & SIEMENS Step 7",
+      "level": "Master",
+      "icon": "fa-solid fa-industry",
+      "keywords": [""]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "🇲🇽 Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "🇺🇸 English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "🇵🇹 Portuguese",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "🇨🇳 Chinese",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": " ☢️ Nuclear Fusion",
+      "icon": "",
+      "keywords": ["Tokamak", "Magnetic Confiment", ""]
+    },
+    {
+      "name": " ⚛️ Quantum Computing",
+      "icon": "",
+      "keywords": ["qubit", "High Performance Comouting", ""]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor De Tommasi",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "detommas@unina.it"
     }
   ],
   "projects": [
